@@ -1,1 +1,1 @@
-# AI-Bases-Intrusion-Detection-System
+# AI-Based-Intrusion-Detection-System
